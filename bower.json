@@ -27,9 +27,7 @@
     "LICENSE",
     "*.md"
   ],
-  "dependencies": {
-    "jquery": "*"
-  },
+  "dependencies": {},
   "repository" :
   { 
     "type" : "git",
